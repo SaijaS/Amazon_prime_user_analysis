@@ -1,5 +1,5 @@
 # Amazon_prime_user_analysis
-ew Project : Amazon Prime Users Analytics | Power BI
+New Project : Amazon Prime Users Analytics | Power BI
 
 I’m happy to share my latest data analytics Project - an Interactive dashboard that provides key insights into amazon prime users through different age categories. when I started to work on this project, a series of questions helped me to understand the relationship between data and business insights.
 
